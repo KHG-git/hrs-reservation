@@ -79,7 +79,7 @@ spring:
 
 external:
   url:
-    payment: http://payment:8080
+    payment: http://skccuser2-payment:8080
 
 feign:
   hystrix:
