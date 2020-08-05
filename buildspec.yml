@@ -96,3 +96,5 @@ phases:
 cache:
   paths:
     - '/root/.m2/**/*'
+
+
